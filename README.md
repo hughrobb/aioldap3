@@ -1,2 +1,2 @@
 # aioldap3
-Proof-of-concept experiment to asyncio-ify ldap3.
+Experimental changes to ldap3 to add intrinsic asyncio functionality.
